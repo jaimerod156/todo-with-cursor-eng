@@ -9,9 +9,11 @@
   },
   "dependencies": {
     "@base-ui/react": "^1.5.0",
+    "@tailwindcss/oxide-linux-x64-gnu": "^4.3.3",
     "@vercel/analytics": "1.6.1",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "lightningcss-linux-x64-gnu": "^1.33.0",
     "lucide-react": "^1.16.0",
     "next": "16.3.0",
     "react": "^19",
@@ -28,6 +30,9 @@
     "postcss": "^8.5",
     "tailwindcss": "^4.3.3",
     "typescript": "5.7.3"
+  },
+  "optionalDependencies": {
+  "@tailwindcss/oxide-linux-x64-gnu": "^4.0.0"
   },
   "pnpm": {
     "overrides": {
